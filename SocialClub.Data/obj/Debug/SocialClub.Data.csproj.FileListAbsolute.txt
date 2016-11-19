@@ -1,0 +1,5 @@
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Data\bin\Debug\SocialClub.Data.dll
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Data\bin\Debug\SocialClub.Data.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Data\obj\Debug\SocialClub.Data.csprojResolveAssemblyReference.cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Data\obj\Debug\SocialClub.Data.dll
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Data\obj\Debug\SocialClub.Data.pdb

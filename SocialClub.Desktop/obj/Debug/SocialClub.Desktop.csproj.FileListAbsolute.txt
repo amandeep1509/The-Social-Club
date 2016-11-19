@@ -1,0 +1,11 @@
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Desktop\bin\Debug\SocialClub.Desktop.exe.config
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Desktop\bin\Debug\SocialClub.Desktop.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Desktop\bin\Debug\SocialClub.Desktop.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Desktop\bin\Debug\SocialClub.Data.dll
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Desktop\bin\Debug\SocialClub.Data.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Desktop\obj\Debug\SocialClub.Desktop.csprojResolveAssemblyReference.cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Desktop\obj\Debug\SocialClub.Desktop.Properties.Resources.resources
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Desktop\obj\Debug\SocialClub.Desktop.csproj.GenerateResource.Cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Desktop\obj\Debug\SocialClub.Desktop.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\SocialClub\SocialClub.Desktop\obj\Debug\SocialClub.Desktop.pdb
+C:\Users\amand\OneDrive\Documents\Visual Studio 2015\Projects\SocialClub\SocialClub.Desktop\obj\Debug\SocialClub.Desktop.Form1.resources
